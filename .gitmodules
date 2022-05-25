@@ -1,0 +1,3 @@
+[submodule "EulerDB"]
+	path = EulerDB
+	url = git@github.com:FancyXun/EulerDB.git

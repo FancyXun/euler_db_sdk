@@ -67,7 +67,7 @@ setup(
                       "gmssl == 3.2.1",
                       "cryptography == 36.0.1",
                       "Crypto == 1.4.1",
-                      "tornado"
+                      "tornado == 6.1",
                       "phe == 1.4.0"],
     extras_require={  # Optional
         'dev': ['check-manifest'],
